@@ -26,17 +26,17 @@ window.SITE = {
   author: "",            // 不公開作者名字；網站上一律寫「作者」
   goal: 101,
   // 上架後把這裡改成你的 GitHub repo 網址，頁首會出現連結
-  repo: "https://github.com/erwin50331/svg-scene-atlas",
+  repo: "https://gogo-123coder.github.io/svg-scene-atlas/",
   // 「聯絡」表單的收件端點（例如 Formspree：https://formspree.io/f/xxxxxxx）。
   // 收件信箱設定在 Formspree 後台，不會出現在網站程式碼裡。留空時表單會顯示「即將開放」。
-  contact: "https://formspree.io/f/xwloarjv",
+  contact: "",
   // 網站統計（GoatCounter，免費、不追蹤個人、不用 cookie）。到 goatcounter.com 註冊後，
   // 把你取的代碼填在這裡，例如 "svg-atlas"（或完整網址 https://svg-atlas.goatcounter.com/count）。
   // 留空時完全不載入統計程式。後台會看到每組的 open/SC-xx（打開）、download/SC-xx/…（下載）排行。
-  analytics: "erwin50331",
+  analytics: "gogo-123coder",
   // MP4／GIF 下載：放在 GitHub Releases 的資料夾網址（結尾要有 /）。檔名是場景檔名把 .html 換成 .mp4／.gif。
   // 留空時下載視窗只提供 HTML。
-  clips: "https://github.com/erwin50331/svg-scene-atlas/releases/download/clips-v1/",
+  clips: "https://github.com/gogo-123coder/svg-scene-atlas/releases/download/clips-v1/",
   // Threads、LinkedIn 等個人連結，可留空
   links: [],
   // 作者精選：填場景編號，順序就是精選區的排列順序；留空陣列就不顯示精選區
